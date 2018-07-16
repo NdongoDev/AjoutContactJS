@@ -1,0 +1,76 @@
+.btn-false.btn-edit
+{
+	display:inline-block;
+}
+.btn-true.btn-edit
+{
+	display:none;
+}
+.btn-false.btn-save
+{
+	display:none;
+}
+.btn-true.btn-save
+{
+	display:inline-block;
+}
+.edit-false span
+{
+	display:inline-block;
+}
+.edit-true span
+{
+	display:none;
+}
+.edit-false input
+{
+	display:none;
+}.edit-true input
+{
+	display:inline-block;
+}
+.table
+{
+	border-radius: 5px;
+	width: 60%;
+	margin: 0px auto;
+	float: none;
+}
+form,.ajouter
+{
+	border-radius: 5px;
+	width: 50%;
+	margin: 0px auto;
+	float: none;
+}
+
+h2,h4,p,li, table
+{
+	color: black;
+}
+.tm-section-intro{
+	background-image: url(../image/sea-2561397_1920.jpg);
+	background-attachment: fixed;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: 100% 800px;
+	color: white;
+	display: flex;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	text-align: center;
+	height: 800px;
+	width: 1920px ;
+	margin: 40px auto;
+}
+.ContactsCtrl{
+	background-position: center top;
+	background-size: 100% 800px;
+	text-align: center;
+	height: 700px;
+	margin: 0px auto;
+}
